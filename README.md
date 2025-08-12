@@ -49,4 +49,8 @@ Users can securely sign up, log in, view their dashboard with balance and transa
 <img width="600" alt="Paytm Clone UI - Sign In" src="https://github.com/user-attachments/assets/78577408-b267-4f3b-9a4d-ea2fd07254ad" />
 <p align="center"><i>🔑 Sign In</i></p>
 
+
+<img alt="Paytm Clone UI - Mobile Demo" src="https://github.com/user-attachments/assets/8fef5989-d652-4b61-a562-5276f572cda8" />
+<p align="center"><i>📱 Mobile Demo</i></p>
+
 </details>
